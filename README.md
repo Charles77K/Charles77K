@@ -36,7 +36,7 @@ Welcome to my GitHub! I specialize in building dynamic, high-performance mobile 
 
 ### 📚 What I'm Learning
 - Advanced backend architectures and microservices.  
-- Best practices for scalability and security.  
-
-### ✨ Fun Fact
-I’m always looking for exciting projects to collaborate on! Feel free to check out my repositories and connect with me. Let’s build something amazing together! 🚀
+- Best practices for scalability and security.
+  
+### 🚀 Open to Collaboration
+I enjoy exploring new technologies and taking on challenging projects that push my skills further. If you're working on something exciting, feel free to reach out—let's innovate and build together! 🚀
