@@ -2,7 +2,7 @@
 
 ### 🚀 MERN Stack Developer | Passionate About Scalable Web Apps
 
-Welcome to my GitHub! I specialize in building dynamic, high-performance mobile and applications using the MERN stack. I love crafting efficient solutions, writing clean code, and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+Welcome to my GitHub! I specialize in building dynamic, high-performance mobile and web applications using the MERN stack. I love crafting efficient solutions, writing clean code, and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
 ---
 
