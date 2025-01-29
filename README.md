@@ -7,9 +7,9 @@ Welcome to my GitHub! I specialize in building dynamic, high-performance mobile 
 ---
 
 ### ✨ Let's Connect!
-📫 **Email:** charlesobiora16@gmail.com
-🚀 **LinkedIn:** https://www.linkedin.com/in/charles-obiora-484a912a0/
----
+📫 **Email:** [charlesobiora16@gmail.com](mailto:charlesobiora16@gmail.com)  
+🚀 **LinkedIn:** [linkedin.com/in/charles-obiora-484a912a0](https://www.linkedin.com/in/charles-obiora-484a912a0/)
+
 
 ### 🚀 Tech Stack
 #### 💻 Programming Languages
