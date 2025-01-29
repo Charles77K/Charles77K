@@ -7,8 +7,8 @@ Welcome to my GitHub! I specialize in building dynamic, high-performance mobile 
 ---
 
 ### ✨ Let's Connect!
-📫 **Email: charlesobiora16@gmail.com
-🚀 **LinkedIn: https://www.linkedin.com/in/charles-obiora-484a912a0/
+📫 **Email:** charlesobiora16@gmail.com
+🚀 **LinkedIn:** https://www.linkedin.com/in/charles-obiora-484a912a0/
 ---
 
 ### 🚀 Tech Stack
@@ -17,7 +17,7 @@ Welcome to my GitHub! I specialize in building dynamic, high-performance mobile 
 
 #### ⚙️ Frontend Development
 - React.js ⚛️ | React Native | Next.js 🚀 | Redux 🎛️  
-- Tailwind CSS 🎨 | Material UI 🏗️
+- Tailwind CSS 🎨 | Styled Components 🏗️
 
 #### 🛠️ Backend Development
 - Node.js 🟢 | Express.js 🚄 | Mongoose 🍃
