@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hey there! I'm Charles Obiora
 
-<!--
-**Charles77K/Charles77K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Passionate About Scalable Web Apps
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I specialize in building dynamic, high-performance mobile and applications using the MERN stack. I love crafting efficient solutions, writing clean code, and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Let's Connect!
+📫 **Email: charlesobiora16@gmail.com
+🚀 **LinkedIn: https://www.linkedin.com/in/charles-obiora-484a912a0/
+---
+
+### 🚀 Tech Stack
+#### 💻 Programming Languages
+- JavaScript ☕️ | TypeScript 🦕
+
+#### ⚙️ Frontend Development
+- React.js ⚛️ | React Native | Next.js 🚀 | Redux 🎛️  
+- Tailwind CSS 🎨 | Material UI 🏗️
+
+#### 🛠️ Backend Development
+- Node.js 🟢 | Express.js 🚄 | Mongoose 🍃
+
+#### 🗄️ Database Management
+- MongoDB 🍃
+
+#### 🔄 Version Control & Tools
+- Git / GitHub 🛠️
+
+---
+
+### 🌱 What I'm Currently Working On
+- Enhancing my proficiency in TypeScript and Next.js.  
+- Building and optimizing scalable APIs.  
+
+### 📚 What I'm Learning
+- Advanced backend architectures and microservices.  
+- Best practices for scalability and security.  
+
+### ✨ Fun Fact
+I’m always looking for exciting projects to collaborate on! Feel free to check out my repositories and connect with me. Let’s build something amazing together! 🚀
