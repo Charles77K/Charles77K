@@ -1,8 +1,7 @@
 ## 👋 Hey there! I'm Charles Obiora
 
-### 🚀 MERN Stack Developer
-
-Welcome to my GitHub! I specialize in building dynamic, high-performance mobile and web applications using the MERN stack. I love crafting efficient solutions, writing clean code, and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+### 🚀 Software Developer
+Hey there! Welcome to my GitHub. I love building fast, dynamic mobile and web apps. I’m passionate about writing clean code, solving problems efficiently, and always learning new technologies to keep up with the ever-changing tech world.
 
 ---
 
