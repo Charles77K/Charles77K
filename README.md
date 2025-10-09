@@ -25,17 +25,9 @@ Hey there! Welcome to my GitHub. I love building fast, dynamic mobile and web ap
 - MongoDB 🍃
 
 #### 🔄 Version Control & Tools
-- Git / GitHub 🛠️
+- Git / GitHub 🛠️ | Docker 🚢
 
----
-
-### 🌱 What I'm Currently Working On
-- Enhancing my proficiency in TypeScript and Next.js.  
-- Building and optimizing scalable APIs.  
-
-### 📚 What I'm Learning
-- Advanced backend architectures and microservices.  
-- Best practices for scalability and security.
+--- 
   
 ### 🚀 Open to Collaboration
 I enjoy exploring new technologies and taking on challenging projects that push my skills further. If you're working on something exciting, feel free to reach out—let's innovate and build together! 🚀
