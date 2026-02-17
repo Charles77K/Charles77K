@@ -15,7 +15,7 @@ Hey there! Welcome to my GitHub. I love building fast, dynamic mobile and web ap
 - JavaScript ☕️ | TypeScript 🦕
 
 #### ⚙️ Frontend Development
-- React.js ⚛️ | React Native | Next.js 🚀 | Redux 🎛️ | Zustand 🧩
+- React.js ⚛️ | React Native | Next.js 🚀 | Tanstack Start ✨ | Redux 🎛️ | Zustand 🧩
 - Tailwind CSS 🎨 | Styled Components 🏗️
 
 #### 🛠️ Backend Development
