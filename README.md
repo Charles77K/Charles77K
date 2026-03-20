@@ -1,12 +1,13 @@
 # Charles Obiora
 
-I build things.
+Software developer focused on building web and mobile apps.
 
 ## Stack
-JS / TS  
-React / React Native / Next / Tanstack 
-Node / Express  
+JavaScript / TypeScript 
+React / React Native / Next.js  
+Node.js / Express  
 MongoDB  
 
-## Reach me
-charlesobiora16@gmail.com
+## Contact
+charlesobiora16@gmail.com  
+linkedin.com/in/charles-obiora-484a912a0
