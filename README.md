@@ -7,10 +7,10 @@ I work across the stack with JavaScript and TypeScript, focused on building scal
 
 ## Stack
 - JavaScript, TypeScript
-- React, React Native, Next.js, Tanstack Start
+- React, React Native, Next.js, TanStack Start
 - Node.js, Express
-- MongoDB
-
+- MongoDB, PostgreSQL
+- Docker, Nginx, CI/CD
 
 ## Contact
 - charlesobiora16@gmail.com  
