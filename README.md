@@ -1,6 +1,6 @@
 # Charles Obiora
 
-Software developer building web and mobile applications.
+Software Engineer building web and mobile applications.
 
 ## About
 I work across the stack with JavaScript and TypeScript, focused on building scalable products, clean APIs, and systems that actually hold up in production.
