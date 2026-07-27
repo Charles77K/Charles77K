@@ -8,7 +8,7 @@ I work across the stack with JavaScript and TypeScript, focused on building scal
 ## Stack
 - JavaScript, TypeScript
 - React, React Native, Next.js, TanStack Start
-- Node.js, Express
+- Node.js, Express, NestJS
 - MongoDB, PostgreSQL
 - Docker, Nginx, CI/CD
 
